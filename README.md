@@ -3,7 +3,7 @@
 Link to deployed application - https://alexku-book-search.herokuapp.com/
 
 ## Description
-
+The app was built using the MERN stack with a React front end, MongoDB database, and Node.js/Express.js server and GraphQL. This application allows you to search by using [Google Books API](https://developers.google.com/books/docs/v1/using#WorkingVolumes). You also can save searched books. To be able to save your books you should create an account and logged in.
 
 ## Installation
 To be able to use the application you need to install the necessary `npm modules`. You can do this by running the command 
